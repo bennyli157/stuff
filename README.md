@@ -13,3 +13,7 @@ Hello World
 it's ya boi - trying out VS CODE
 
 Heyo
+
+### To configure VS CODE
+git config --global user.email "bennyli737@gmail.com"
+git config --global user.name "bennyli157"
