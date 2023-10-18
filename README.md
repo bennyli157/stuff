@@ -6,4 +6,4 @@ git init
 
 git add README.md
 
-git commit -in 'my commit messages
+git commit -in "my commit messages"
